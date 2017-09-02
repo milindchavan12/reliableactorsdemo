@@ -1,2 +1,6 @@
 /.vs
 /packages
+/ActorSystemDemo/bin/Debug
+/ActorSystemDemo/obj/Debug
+/PlayBackActorDemo/bin/Debug
+/PlayBackActorDemo/obj/Debug
